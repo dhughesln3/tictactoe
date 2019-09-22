@@ -1,2 +1,2 @@
 # tictactoe
-Basic tic-tact-toe exercise project
+Basic tic-tac-toe exercise project
